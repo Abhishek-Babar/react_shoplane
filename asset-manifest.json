@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react_shoplane/static/css/main.4a43a5ab.chunk.css",
+    "main.js": "/react_shoplane/static/js/main.6a15ae6b.chunk.js",
+    "main.js.map": "/react_shoplane/static/js/main.6a15ae6b.chunk.js.map",
+    "runtime-main.js": "/react_shoplane/static/js/runtime-main.bb99bc0d.js",
+    "runtime-main.js.map": "/react_shoplane/static/js/runtime-main.bb99bc0d.js.map",
+    "static/js/2.caeb24fa.chunk.js": "/react_shoplane/static/js/2.caeb24fa.chunk.js",
+    "static/js/2.caeb24fa.chunk.js.map": "/react_shoplane/static/js/2.caeb24fa.chunk.js.map",
+    "static/js/3.c42a4136.chunk.js": "/react_shoplane/static/js/3.c42a4136.chunk.js",
+    "static/js/3.c42a4136.chunk.js.map": "/react_shoplane/static/js/3.c42a4136.chunk.js.map",
+    "index.html": "/react_shoplane/index.html",
+    "static/css/main.4a43a5ab.chunk.css.map": "/react_shoplane/static/css/main.4a43a5ab.chunk.css.map",
+    "static/js/2.caeb24fa.chunk.js.LICENSE.txt": "/react_shoplane/static/js/2.caeb24fa.chunk.js.LICENSE.txt",
+    "static/media/img_confirm.2027e955.png": "/react_shoplane/static/media/img_confirm.2027e955.png",
+    "static/media/logo.6ce24c58.svg": "/react_shoplane/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb99bc0d.js",
+    "static/js/2.caeb24fa.chunk.js",
+    "static/css/main.4a43a5ab.chunk.css",
+    "static/js/main.6a15ae6b.chunk.js"
+  ]
+}
