@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_shoplane/static/css/main.4a43a5ab.chunk.css",
-    "main.js": "/react_shoplane/static/js/main.3483c43e.chunk.js",
-    "main.js.map": "/react_shoplane/static/js/main.3483c43e.chunk.js.map",
+    "main.js": "/react_shoplane/static/js/main.ea9e4927.chunk.js",
+    "main.js.map": "/react_shoplane/static/js/main.ea9e4927.chunk.js.map",
     "runtime-main.js": "/react_shoplane/static/js/runtime-main.bb99bc0d.js",
     "runtime-main.js.map": "/react_shoplane/static/js/runtime-main.bb99bc0d.js.map",
     "static/js/2.76616f6c.chunk.js": "/react_shoplane/static/js/2.76616f6c.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.bb99bc0d.js",
     "static/js/2.76616f6c.chunk.js",
     "static/css/main.4a43a5ab.chunk.css",
-    "static/js/main.3483c43e.chunk.js"
+    "static/js/main.ea9e4927.chunk.js"
   ]
 }
